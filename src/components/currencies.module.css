@@ -1,0 +1,27 @@
+.green-currency-price{
+    width:100%;
+    text-align: right;
+    border-top: 1px solid black;
+    margin-left: 50%;
+      color:#444;
+      border:1px solid #CCC;
+      background:lightgreen;
+      max-width: 170px;
+      padding: 5px;
+      text-align: center;
+      display: inline-block;
+  }
+
+  .red-currency-price{
+    width:100%;
+    text-align: right;
+    border-top: 1px solid black;
+    margin-left: 50%;
+      color:#444;
+      border:1px solid #CCC;
+      background:lightcoral;
+      max-width: 170px;
+      padding: 5px;
+      text-align: center;
+      display: inline-block;
+  }
